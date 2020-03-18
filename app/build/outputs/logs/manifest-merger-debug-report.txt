@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\145afdd3623175807511af3b507b1d9b\design-25.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\14e1d71ee9cfd7be16d8e42aac5c749a\cardview-v7-25.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.javiersantos:MaterialStyledDialogs:2.1] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\ce978642592bea0abf25144f65873473\MaterialStyledDialogs-2.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8af91d0dbd98dc648a027d3051e180a8\core-0.9.0.2\AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\9506f9761129aac0b9da302c7c83011b\library-1.1.7\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f2ab824670ced0fe58318788adb18df0\appcompat-v7-25.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\e80b2d10a6ddff68856ba8f9816e2025\transition-25.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\34c7599d7a69faf39f82e14f91d02396\support-v4-25.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\bbc209683e894ee6d2d74013d081f9a2\constraint-layout-1.1.0-beta3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\98fe7f2d16a49b1c39da8dcc2739794d\recyclerview-v7-25.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8ab57e768cc81214c42b826903516613\support-fragment-25.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b55b61c417a141b95b1697d384ba1542\support-media-compat-25.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\dbf86a999d08c63727fffa8abec2bc4b\support-core-utils-25.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f8245e5795441ae758196c5d184efbd9\support-core-ui-25.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\431b88376d3b8a3a2e749b1988ccdf3a\animated-vector-drawable-25.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b84151798e24a26c9d1e48ee3c7a4983\support-vector-drawable-25.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\28140c1b0fc05c78483bf4fc2f714815\support-compat-25.3.0\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.support:design:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\145afdd3623175807511af3b507b1d9b\design-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\145afdd3623175807511af3b507b1d9b\design-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\14e1d71ee9cfd7be16d8e42aac5c749a\cardview-v7-25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\14e1d71ee9cfd7be16d8e42aac5c749a\cardview-v7-25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8af91d0dbd98dc648a027d3051e180a8\core-0.9.0.2\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8af91d0dbd98dc648a027d3051e180a8\core-0.9.0.2\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f2ab824670ced0fe58318788adb18df0\appcompat-v7-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f2ab824670ced0fe58318788adb18df0\appcompat-v7-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\e80b2d10a6ddff68856ba8f9816e2025\transition-25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\e80b2d10a6ddff68856ba8f9816e2025\transition-25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\34c7599d7a69faf39f82e14f91d02396\support-v4-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\34c7599d7a69faf39f82e14f91d02396\support-v4-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\bbc209683e894ee6d2d74013d081f9a2\constraint-layout-1.1.0-beta3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\bbc209683e894ee6d2d74013d081f9a2\constraint-layout-1.1.0-beta3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8ab57e768cc81214c42b826903516613\support-fragment-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8ab57e768cc81214c42b826903516613\support-fragment-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b55b61c417a141b95b1697d384ba1542\support-media-compat-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b55b61c417a141b95b1697d384ba1542\support-media-compat-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\dbf86a999d08c63727fffa8abec2bc4b\support-core-utils-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\dbf86a999d08c63727fffa8abec2bc4b\support-core-utils-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f8245e5795441ae758196c5d184efbd9\support-core-ui-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f8245e5795441ae758196c5d184efbd9\support-core-ui-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\431b88376d3b8a3a2e749b1988ccdf3a\animated-vector-drawable-25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\431b88376d3b8a3a2e749b1988ccdf3a\animated-vector-drawable-25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b84151798e24a26c9d1e48ee3c7a4983\support-vector-drawable-25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b84151798e24a26c9d1e48ee3c7a4983\support-vector-drawable-25.3.0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\28140c1b0fc05c78483bf4fc2f714815\support-compat-25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\28140c1b0fc05c78483bf4fc2f714815\support-compat-25.3.0\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.d3v3loper.expenseshare.MainActivity
+ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\145afdd3623175807511af3b507b1d9b\design-25.3.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\145afdd3623175807511af3b507b1d9b\design-25.3.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\14e1d71ee9cfd7be16d8e42aac5c749a\cardview-v7-25.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\14e1d71ee9cfd7be16d8e42aac5c749a\cardview-v7-25.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.github.javiersantos:MaterialStyledDialogs:2.1] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\ce978642592bea0abf25144f65873473\MaterialStyledDialogs-2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.javiersantos:MaterialStyledDialogs:2.1] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\ce978642592bea0abf25144f65873473\MaterialStyledDialogs-2.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8af91d0dbd98dc648a027d3051e180a8\core-0.9.0.2\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8af91d0dbd98dc648a027d3051e180a8\core-0.9.0.2\AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\9506f9761129aac0b9da302c7c83011b\library-1.1.7\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\9506f9761129aac0b9da302c7c83011b\library-1.1.7\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f2ab824670ced0fe58318788adb18df0\appcompat-v7-25.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f2ab824670ced0fe58318788adb18df0\appcompat-v7-25.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\e80b2d10a6ddff68856ba8f9816e2025\transition-25.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\e80b2d10a6ddff68856ba8f9816e2025\transition-25.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\34c7599d7a69faf39f82e14f91d02396\support-v4-25.3.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\34c7599d7a69faf39f82e14f91d02396\support-v4-25.3.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\bbc209683e894ee6d2d74013d081f9a2\constraint-layout-1.1.0-beta3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\bbc209683e894ee6d2d74013d081f9a2\constraint-layout-1.1.0-beta3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\98fe7f2d16a49b1c39da8dcc2739794d\recyclerview-v7-25.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\98fe7f2d16a49b1c39da8dcc2739794d\recyclerview-v7-25.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8ab57e768cc81214c42b826903516613\support-fragment-25.3.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8ab57e768cc81214c42b826903516613\support-fragment-25.3.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b55b61c417a141b95b1697d384ba1542\support-media-compat-25.3.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b55b61c417a141b95b1697d384ba1542\support-media-compat-25.3.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\dbf86a999d08c63727fffa8abec2bc4b\support-core-utils-25.3.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\dbf86a999d08c63727fffa8abec2bc4b\support-core-utils-25.3.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f8245e5795441ae758196c5d184efbd9\support-core-ui-25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f8245e5795441ae758196c5d184efbd9\support-core-ui-25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\431b88376d3b8a3a2e749b1988ccdf3a\animated-vector-drawable-25.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\431b88376d3b8a3a2e749b1988ccdf3a\animated-vector-drawable-25.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b84151798e24a26c9d1e48ee3c7a4983\support-vector-drawable-25.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b84151798e24a26c9d1e48ee3c7a4983\support-vector-drawable-25.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\28140c1b0fc05c78483bf4fc2f714815\support-compat-25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\28140c1b0fc05c78483bf4fc2f714815\support-compat-25.3.0\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\145afdd3623175807511af3b507b1d9b\design-25.3.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+		ADDED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+		INJECTED from C:\android_projects\ExpenseShare\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\145afdd3623175807511af3b507b1d9b\design-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\14e1d71ee9cfd7be16d8e42aac5c749a\cardview-v7-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\14e1d71ee9cfd7be16d8e42aac5c749a\cardview-v7-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f2ab824670ced0fe58318788adb18df0\appcompat-v7-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f2ab824670ced0fe58318788adb18df0\appcompat-v7-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\e80b2d10a6ddff68856ba8f9816e2025\transition-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\e80b2d10a6ddff68856ba8f9816e2025\transition-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\34c7599d7a69faf39f82e14f91d02396\support-v4-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\34c7599d7a69faf39f82e14f91d02396\support-v4-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\98fe7f2d16a49b1c39da8dcc2739794d\recyclerview-v7-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\98fe7f2d16a49b1c39da8dcc2739794d\recyclerview-v7-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8ab57e768cc81214c42b826903516613\support-fragment-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\8ab57e768cc81214c42b826903516613\support-fragment-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b55b61c417a141b95b1697d384ba1542\support-media-compat-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b55b61c417a141b95b1697d384ba1542\support-media-compat-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\dbf86a999d08c63727fffa8abec2bc4b\support-core-utils-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\dbf86a999d08c63727fffa8abec2bc4b\support-core-utils-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f8245e5795441ae758196c5d184efbd9\support-core-ui-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\f8245e5795441ae758196c5d184efbd9\support-core-ui-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\431b88376d3b8a3a2e749b1988ccdf3a\animated-vector-drawable-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\431b88376d3b8a3a2e749b1988ccdf3a\animated-vector-drawable-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b84151798e24a26c9d1e48ee3c7a4983\support-vector-drawable-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\b84151798e24a26c9d1e48ee3c7a4983\support-vector-drawable-25.3.0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\28140c1b0fc05c78483bf4fc2f714815\support-compat-25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\28140c1b0fc05c78483bf4fc2f714815\support-compat-25.3.0\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\145afdd3623175807511af3b507b1d9b\design-25.3.0\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] C:\Users\SAHIL SIDDIQUI\.gradle\caches\transforms-2\files-2.1\145afdd3623175807511af3b507b1d9b\design-25.3.0\AndroidManifest.xml:26:9-47

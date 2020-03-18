@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">ExpenseShare</string>
+
+  <string name="items_input">Items</string>
+  <string name="amount_input">Amount</string>
+  <string name="name_input">Name</string>
+  <string name="items_input_hint">Enter item names</string>
+  <string name="amount_input_hint">Enter amount</string>
+  <string name="name_input_hint">Enter your name</string>
+  <string name="action_settings">Expense Report</string>
+  <string name="dialog_content">This is Expense Share App used for share home expenses between sahil,moazzam. Developed by Sahil Siddiqui.</string>
+  <string name="googlesheet_url">enter your google sheet url link here to see expense report</string>
+
+</resources>
